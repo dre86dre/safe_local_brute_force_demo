@@ -50,7 +50,7 @@ python login_app.py
 
 ## Customisation & Experiments
 
-**Experiment                  How to do it                  What it shows**
+**Experiment                    How to do it                  What it shows**
 
 ## Code Safety Features
 
