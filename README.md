@@ -26,7 +26,7 @@ git clone https://github.com/dre86dre/safe_local_brute_force_demo.git
 cd safe_local_brute_force_demo
 ```
 
-**2. Create a virtual environment (Optional)**
+**2. Create a virtual environment (optional)**
 
 ```
 python -m venv venv
@@ -39,3 +39,23 @@ venv\Scripts\activate      # Windows
 ```
 python bruteforce.py
 ```
+
+**4. Test password manually (optional)**
+
+```
+python login_app.py
+```
+
+---
+
+## Code Safety Features
+
+- Fully offline
+- No networking
+- Local function testing only
+- Delay between attempts
+- Configurable attempt limit
+- Clear warning in code and README
+
+---
+
