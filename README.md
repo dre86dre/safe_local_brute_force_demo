@@ -50,7 +50,15 @@ python login_app.py
 
 ## Customisation & Experiments
 
-**Experiment                    How to do it                  What it shows**
+| Experiment               | How to do it                                   | What it shows                 |
+| ------------------------ | ---------------------------------------------- | ----------------------------- |
+| Instant success          | Move correct password to top of `wordlist.txt` | Fast dictionary attack        |
+| Harder brute-force       | Change `CORRECT` value in `login_app.py`       | Strong password effects       |
+| Add lockout              | Set `MAX_TRIES = 3` in `bruteforce.py`         | Account protection            |
+| Remove delay             | Set `DELAY_BETWEEN_TRIES = 0`                  | Speed of uncontrolled attacks |
+| Use long random password | `CORRECT="hG38&ks91!b"`                        | Brute-force impracticality    |
+
+---
 
 ## Code Safety Features
 
