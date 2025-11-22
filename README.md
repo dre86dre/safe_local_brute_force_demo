@@ -19,7 +19,7 @@ This project is designed for local ethical experiments only.
 
 ## Usage
 
-1. Clone the repo
+**1. Clone the repo**
 
 ```
 git clone https://github.com/dre86dre/safe_local_brute_force_demo.git
