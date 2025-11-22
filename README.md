@@ -17,3 +17,25 @@ This project is designed for local ethical experiments only.
 
 ---
 
+## Usage
+
+1. Clone the repo
+
+```
+git clone https://github.com/dre86dre/safe_local_brute_force_demo.git
+cd safe_local_brute_force_demo
+```
+
+2. Create a virtual environment (Optional)
+
+```
+python -m venv venv
+source venv/bin/activate   # Mac/Linux
+venv\Scripts\activate      # Windows
+```
+
+3. Run the brute force tester
+
+```
+python bruteforce.py
+```
