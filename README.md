@@ -22,7 +22,7 @@ This project is designed for local ethical experiments only.
 **1. Clone the repo**
 
 ```
-git clone https://github.com/dre86dre/safe_local_brute_force_demo.git
+git clone https://github.com/coder0name0dre/safe_local_brute_force_demo.git
 cd safe_local_brute_force_demo
 ```
 
@@ -96,4 +96,4 @@ Contributions, imporovements, and educational extensions are welcome! Just ensur
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/dre86dre/safe_local_brute_force_demo/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/coder0name0dre/safe_local_brute_force_demo/blob/main/LICENSE).
